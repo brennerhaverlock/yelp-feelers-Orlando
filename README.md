@@ -5,6 +5,8 @@
 ### users overview
 |Method|Endpoint|Action|Front-end Request|Back-end Response
 |------------|------------|------------|------------|------------|
+|GET|'/stores'|get all taco stores|
+|GET|'/stores/:id/reviews'|get all reviews from a store with id|
 
 
 
