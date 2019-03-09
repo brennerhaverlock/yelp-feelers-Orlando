@@ -1,0 +1,28 @@
+{
+  "name": "yelp-feelers-Orlando",
+  "version": "1.0.0",
+  "description": "## Endpoints",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.15.1",
+    "knex": "^0.16.3",
+    "nodemon": "^1.18.10",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelp-feelers/yelp-feelers-Orlando.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yelp-feelers/yelp-feelers-Orlando/issues"
+  },
+  "homepage": "https://github.com/yelp-feelers/yelp-feelers-Orlando#readme"
+}
