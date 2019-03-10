@@ -13,4 +13,4 @@
 ### data structure
 |      |Store|Reviewer|Original Review|Adjusted Review|
 |------|-------|-------|--------------|---------------|
-|Fields|id: String! \n reviewer: Reviewer! review: String! score: Int! date_created: Date! date_updated: Date!|
+|Fields|id: String!  reviewer: Reviewer!  review: String!  score: Int!  date_created: Date!  date_updated: Date!|
