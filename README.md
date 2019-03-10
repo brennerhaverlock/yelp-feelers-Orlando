@@ -13,4 +13,4 @@
 ### data structure
 |      |Store|Reviewer|Original Review|Adjusted Review|
 |------|-------|-------|--------------|---------------|
-|Fields|id: String!<br/>name: String!<br/>reviews:[Review!]!<br/>true_score: Int!<br/>adju_score: Int!||id: String!<br/>reviewer: Reviewer!<br/>review: String!<br/>score: Int!<br/>date_created: Date!<br/>date_updated: Date!|
+|Fields|id: String!<br/>name: String!<br/>reviews:[Review!]!<br/>true_score: Int!<br/>adju_score: Int!|id: Int!<br/>username: String!|id: String!<br/>reviewer: Reviewer!<br/>review: String!<br/>score: Int!<br/>date_created: Date!<br/>date_updated: Date!|
